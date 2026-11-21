@@ -1,0 +1,30 @@
+{
+  "title": "The Testability Atlas: Which Questions in Indian Historical Statistics Can Surviving Data Decide?",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Of the 23 questions graded in this Atlas, 4 are testable, 11 are underpowered, and 8 are untestable on clean Indian official data. The Atlas does not test theories. It grades rulers: for each pairing of an Indian official series and a question the literature treats as meaningful, it asks whether the series' clean span — its longest span on a single base, method, or design, with no silent splicing — could detect an effect of the literature-sized magnitude at conventional power. The grid covers 10 series and 8 tests. Only beta convergence across states, the Kitchin cycle in bank credit, the Kitchin cycle in merchandise trade values, and the political budget cycle in state finances clear the testable threshold. Every rebased index fails or is capped in the business-cycle cells; gross domestic product, the flagship series, is the weakest cycle ruler in the grid. Nineteen of the 23 questions cannot be answered at literature-sized effects on clean data. That count, computed under a pre-registered rubric, machinery, and anchors, is the result. A verdict of untestable is not evidence against a theory, and a verdict of testable is not evidence for it. Keywords: India; official statistics; statistical power; minimum detectable effect; pre-registration; business cycles; data quality",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "testability",
+    "historical statistics",
+    "India",
+    "statistical power",
+    "evidence audit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/testability-atlas",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
